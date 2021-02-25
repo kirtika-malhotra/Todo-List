@@ -1,0 +1,13 @@
+{ 
+    
+    "mongoURI" : "mongodb://127.0.0.1:27017/todo",
+    "avatarBaseURI":"https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=",
+    "jwtSecret" : "bcdl2efff5rgh3h2fibh25i",
+    "serverPort" : 5000,
+    "clientOrigin" : "https://localhost:3000/",
+    "fromMailId": "mail@example.com",
+    "fromMailName": "Mailer Name",
+    "mailHost": "example.com",
+    "smtpPassword": "MailPassword",
+    "smtpUser": "MailUserName"
+}
